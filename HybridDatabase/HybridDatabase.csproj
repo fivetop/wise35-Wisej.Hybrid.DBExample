@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<TargetFrameworks>net48;net8.0</TargetFrameworks>
+	<ImplicitUsings>enable</ImplicitUsings>
+	<Nullable>enable</Nullable>
+	<LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+	<PackageReference Include="sqlite-net-pcl" Version="1.9.172" />
+	<PackageReference Include="SQLitePCLRaw.lib.e_sqlite3" Version="2.1.10" />
+  </ItemGroup>
+
+</Project>
