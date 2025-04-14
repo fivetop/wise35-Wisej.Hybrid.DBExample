@@ -6,6 +6,8 @@ WiseJ 3.5 Hybrid를 사용하여 Windows, Android, IOS 동시에 개발하기
 
 ![poster](./img1.png)
 
+참조에러 수정 후 
+
 PC 화면
 ![poster](./img2.png)
 
